@@ -87981,7 +87981,7 @@ A.arG.prototype={
 $1(a){var s,r,q=$.kI().gP().c
 q.toString
 q=A.lm(q,!1)
-s=q.uP("dashboard",null,t.X)
+s=q.uP("login",null,t.X)
 s.toString
 s=A.ar6(s,B.mb,!1,null)
 r=q.e
